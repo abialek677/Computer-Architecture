@@ -1,0 +1,3 @@
+﻿  caller.c
+C:\Users\adamb\Desktop\AKO\lab5\stozek\caller.c(10,28): warning C4305: 'function': truncation from 'double' to 'float'
+  stozek.vcxproj -> C:\Users\adamb\Desktop\AKO\lab5\stozek\Debug\stozek.exe

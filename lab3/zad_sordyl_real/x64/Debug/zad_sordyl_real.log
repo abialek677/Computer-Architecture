@@ -1,0 +1,16 @@
+﻿  Assembling real_sordyl.asm...
+real_sordyl.asm(1): error A2008: syntax error : .
+real_sordyl.asm(2): error A2008: syntax error : .
+real_sordyl.asm(15): error A2008: syntax error : PUSHA
+real_sordyl.asm(41): error A2070: invalid instruction operands
+real_sordyl.asm(46): error A2008: syntax error : POPA
+real_sordyl.asm(52): error A2070: invalid instruction operands
+real_sordyl.asm(53): error A2070: invalid instruction operands
+real_sordyl.asm(54): error A2070: invalid instruction operands
+real_sordyl.asm(57): error A2070: invalid instruction operands
+real_sordyl.asm(81): error A2070: invalid instruction operands
+real_sordyl.asm(82): error A2070: invalid instruction operands
+real_sordyl.asm(83): error A2070: invalid instruction operands
+real_sordyl.asm(24): error A2229: cannot use labels and 32-bit addressing in the same expression
+real_sordyl.asm(33): error A2229: cannot use labels and 32-bit addressing in the same expression
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\real_sordyl.obj" /W3 /errorReport:prompt  /Tareal_sordyl.asm" exited with code 1.

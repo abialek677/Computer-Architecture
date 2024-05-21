@@ -1,0 +1,3 @@
+﻿cwiczenie.obj : error LNK2019: unresolved external symbol __write referenced in function _main
+LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+C:\Users\adamb\Desktop\AKO\cw1\Debug\cw1.exe : fatal error LNK1120: 2 unresolved externals

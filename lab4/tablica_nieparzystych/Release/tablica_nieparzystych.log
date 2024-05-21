@@ -1,0 +1,8 @@
+﻿  Assembling tab.asm...
+  caller.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+tab.obj : error LNK2026: module unsafe for SAFESEH image.
+C:\Users\adamb\Desktop\AKO\lab4\tablica_nieparzystych\Release\tablica_nieparzystych.exe : fatal error LNK1281: Unable to generate SAFESEH image.

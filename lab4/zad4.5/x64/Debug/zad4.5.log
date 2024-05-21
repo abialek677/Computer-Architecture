@@ -1,0 +1,7 @@
+﻿  Assembling suma.asm...
+  caller.c
+C:\Users\adamb\Desktop\AKO\lab4\zad4.5\caller.c(11,9): warning C4477: 'printf' : format string '%I64d' requires an argument of type '__int64', but variadic argument 1 has type 'int'
+C:\Users\adamb\Desktop\AKO\lab4\zad4.5\caller.c(11,9): message : consider using '%d' in the format string
+C:\Users\adamb\Desktop\AKO\lab4\zad4.5\caller.c(11,9): message : consider using '%I32d' in the format string
+C:\Users\adamb\Desktop\AKO\lab4\zad4.5\caller.c(9,13): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  zad4.5.vcxproj -> C:\Users\adamb\Desktop\AKO\lab4\zad4.5\x64\Debug\zad4.5.exe
